@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rex5207/Downloads/OKReport/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/utils-v4/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7dc4e0ea5b06183f6b32f08c5db6bcb6ef79c02a">
+        <dex dex="/Users/rex5207/Downloads/OKReport/app/build/intermediates/pre-dexed/debug/classes-a774c4f286ba95b9c112d010423c85c2732836c4.jar" />
+    </item>
+    <item
+        jar="/Users/rex5207/Downloads/OKReport/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/utils-v13/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="54efc1e1f678e4dc339b5c9682338211a221b4ce">
+        <dex dex="/Users/rex5207/Downloads/OKReport/app/build/intermediates/pre-dexed/debug/classes-14512ec03bf97db6f7578daee7f1d84d88e4a0fd.jar" />
+    </item>
+    <item
+        jar="/Users/rex5207/Downloads/OKReport/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/rex5207/Downloads/OKReport/app/build/intermediates/pre-dexed/debug/classes-2cbbff98ffd6e17159b9fd3a9eca9db71964b854.jar" />
+    </item>
+    <item
+        jar="/Users/rex5207/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/rex5207/Downloads/OKReport/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-ddea9d0c1502aa84a8cd8b741ee655008452282c.jar" />
+    </item>
+    <item
+        jar="/Users/rex5207/Downloads/OKReport/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/rex5207/Downloads/OKReport/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-9888f67e1d7dce91f4f94c3e5ffbf216867f866f.jar" />
+    </item>
+    <item
+        jar="/Users/rex5207/Downloads/OKReport/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/library/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="/Users/rex5207/Downloads/OKReport/app/build/intermediates/pre-dexed/debug/classes-d04787582988209b6b194af39251ecf8497f7c7d.jar" />
+    </item>
+    <item
+        jar="/Users/rex5207/Downloads/OKReport/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/rex5207/Downloads/OKReport/app/build/intermediates/pre-dexed/debug/classes-52d24991fe36825eb245fd49fdaa3ec396558b93.jar" />
+    </item>
+
+</items>

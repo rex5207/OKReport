@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Report">
+
+    <item
+        android:id="@+id/action_adding"
+        android:icon="@drawable/add_with_margin"
+        android:title="新增帳號"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_deleting"
+        android:icon="@drawable/ic_action_discard"
+        android:title="刪除帳號"
+        app:showAsAction="ifRoom"/>
+</menu>

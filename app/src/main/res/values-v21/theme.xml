@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar">
+                <item name="android:background">@color/primary</item>
+                <item name="android:windowContentOverlay">@null</item>
+                <!-- Support library compatibility -->
+                <item name="background">@color/primary</item>
+                <item name="android:statusBarColor">@color/primary_dark</item>
+        </style>
+
+        <style name="CustomActionBarTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+                <item name="android:actionBarStyle">@style/MyActionBar</item>
+                <!-- Support library compatibility -->
+                <item name="android:windowContentOverlay">@null</item>
+                <item name="android:statusBarColor">@color/primary_dark</item>
+                <item name="actionBarStyle">@style/MyActionBar</item>
+        </style>
+</resources>

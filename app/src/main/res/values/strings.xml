@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OKReport</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_char_info">CharInfo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3330018834665575/8779424840</string>
+
+</resources>
